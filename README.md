@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/ersameerpatel/beer-inventory-service/tree/main.svg?style=svg)](https://circleci.com/gh/ersameerpatel/beer-inventory-service/tree/main)
+[![CircleCI](https://circleci.com/gh/ersameerpatel/beer-order-service/tree/initial-project.svg?style=svg)](https://circleci.com/gh/ersameerpatel/beer-order-service/tree/initial-project)
 
 #Sprint Boot Microservices Project
 ## 1. brewery (beer-service)
